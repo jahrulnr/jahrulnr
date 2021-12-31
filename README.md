@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jahrulnr
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Universitas Islam Riau
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me? Please click link <a href="//jahrulnr.github.io">here</a>
