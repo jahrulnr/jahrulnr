@@ -3,7 +3,4 @@
 - ✨ I’m newbie developer
 - 📫 How to reach me? Please click link <a href="//jahrulnr.github.io">here</a>
 
-<!---
-jahrulnr/jahrulnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Jahrulnr GitHub stats](https://github-readme-stats.vercel.app/api?username=jahrulnr&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahrulnr&count_private=true&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true)
